@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HindDouaaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(HindDouaaApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(HindDouaaApplication.class, args);
+    }
 
 }
